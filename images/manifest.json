@@ -331,6 +331,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://enoonannyu.github.io/SM-Asset-Images/images/08EtchingofJulia/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "08EtchingofJulia"
+                ]
+            },
+            "height": 3264,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://enoonannyu.github.io/SM-Asset-Images/images/08EtchingofJulia/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://enoonannyu.github.io/SM-Asset-Images/images/08EtchingofJulia/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://enoonannyu.github.io/SM-Asset-Images/images/08EtchingofJulia/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 79,
+                                                "height": 102
+                                            },
+                                            {
+                                                "width": 157,
+                                                "height": 204
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 408
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 816
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 1632
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 3264
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 2500,
+                                        "id": "https://enoonannyu.github.io/SM-Asset-Images/images/08EtchingofJulia",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3264
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://enoonannyu.github.io/SM-Asset-Images/images/08EtchingofJulia/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
