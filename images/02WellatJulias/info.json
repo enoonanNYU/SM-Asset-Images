@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 102,
+    "height" : 73
+  }, {
+    "width" : 204,
+    "height" : 145
+  }, {
+    "width" : 408,
+    "height" : 290
+  }, {
+    "width" : 816,
+    "height" : 580
+  }, {
+    "width" : 1632,
+    "height" : 1159
+  }, {
+    "width" : 3264,
+    "height" : 2318
+  } ],
+  "profile" : "level0",
+  "width" : 3264,
+  "id" : "https://enoonannyu.github.io/SM-Asset-Images/images/02WellatJulias",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2318
+}
