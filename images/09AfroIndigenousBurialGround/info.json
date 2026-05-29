@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 117,
+    "height" : 87
+  }, {
+    "width" : 233,
+    "height" : 174
+  }, {
+    "width" : 465,
+    "height" : 347
+  }, {
+    "width" : 930,
+    "height" : 694
+  }, {
+    "width" : 1860,
+    "height" : 1388
+  }, {
+    "width" : 3719,
+    "height" : 2776
+  } ],
+  "profile" : "level0",
+  "width" : 3719,
+  "id" : "https://enoonannyu.github.io/SM-Asset-Images/images/09AfroIndigenousBurialGround",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2776
+}
