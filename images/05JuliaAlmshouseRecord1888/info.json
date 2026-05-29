@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 119,
+    "height" : 158
+  }, {
+    "width" : 237,
+    "height" : 315
+  }, {
+    "width" : 473,
+    "height" : 630
+  }, {
+    "width" : 946,
+    "height" : 1260
+  }, {
+    "width" : 1892,
+    "height" : 2520
+  }, {
+    "width" : 3783,
+    "height" : 5039
+  } ],
+  "profile" : "level0",
+  "width" : 3783,
+  "id" : "https://enoonannyu.github.io/SM-Asset-Images/images/05JuliaAlmshouseRecord1888",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 5039
+}
