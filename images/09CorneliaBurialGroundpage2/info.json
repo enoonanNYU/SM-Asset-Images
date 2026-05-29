@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 34
+  }, {
+    "width" : 41,
+    "height" : 67
+  }, {
+    "width" : 81,
+    "height" : 133
+  }, {
+    "width" : 161,
+    "height" : 265
+  }, {
+    "width" : 321,
+    "height" : 529
+  }, {
+    "width" : 641,
+    "height" : 1058
+  } ],
+  "profile" : "level0",
+  "width" : 641,
+  "id" : "https://enoonannyu.github.io/SM-Asset-Images/images/09CorneliaBurialGroundpage2",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1058
+}
