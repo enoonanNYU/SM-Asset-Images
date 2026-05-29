@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 114,
+    "height" : 139
+  }, {
+    "width" : 228,
+    "height" : 277
+  }, {
+    "width" : 456,
+    "height" : 554
+  }, {
+    "width" : 911,
+    "height" : 1107
+  }, {
+    "width" : 1822,
+    "height" : 2214
+  }, {
+    "width" : 3644,
+    "height" : 4428
+  } ],
+  "profile" : "level0",
+  "width" : 3644,
+  "id" : "https://enoonannyu.github.io/SM-Asset-Images/images/05Julia1880Census",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4428
+}
